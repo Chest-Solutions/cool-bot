@@ -1,0 +1,11 @@
+discord.py
+python-dotenv
+pillow
+requests
+pyrender
+trimesh
+aiofiles
+aioshutil
+aiopathlib
+cryptography
+nsfw-detector
